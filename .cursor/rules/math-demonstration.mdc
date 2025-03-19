@@ -1,0 +1,16 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+
+# Your rule content
+
+Create a markdown report for demonstrating [math concept]. The report should include:
+- A title: '# [Math Concept] Demonstration'
+- An introduction section explaining what [math concept] is.
+- A section describing how the data was simulated or generated.
+- A section with the Python code enclosed in a code block.
+- A section embedding the visualization image using ![Visualization](mdc:[concept]_plot.png) with a caption.
+- A conclusion summarizing the demonstration or providing further insights.
+Please format the report appropriately.
